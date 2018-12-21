@@ -1,17 +1,23 @@
 #include<stdio.h>
 int main(){
-/*int number;
-printf("5:");
-scanf("%d",&number);
-printf("cube of number is:%d "5,);*/
+    /*int p,n;
+    float r,si;
+    p=1000;
+    n=3;
+    r=8.5;
+    si=p*n*r/100;
+    printf("%f",si);*/
 
 
 
-    printf("You\n \nare\nlearning\n\'c\' language\n\"Do you know C language\"");
 
-       const float PI=3.14;
-const float  PI1=4;
-    printf("The value of PI is: %f,",PI,PI1);
+
+
+
+
+
+
+
 
 return 0;
 }
